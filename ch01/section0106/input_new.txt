@@ -1,0 +1,67 @@
+ASCII Characters:
+! @ # $ % ^ & * ( ) _ + - = { } [ ]  | ; : ' " < > , . ? /
+~ ` : <space>
+
+Numbers:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40
+
+Tabs and Spaces:
+Column1	Column2	Column3
+1	2	3
+4	5	6
+7	8	9
+10	11	12
+
+Sample Text with Newlines:
+This is line one.
+This is line two.
+This is line three.
+This is line four.
+This is line five.
+This is line six.
+This is line seven.
+This is line eight.
+This is line nine.
+This is line ten.
+
+A few random numbers:
+12345
+67890
+24680
+13579
+10203
+40404
+99999
+
+More ASCII characters:
+* * * * * * * * * * * * * * * * * * * * * * * *
+= = = = = = = = = = = = = = = = = = = = = = = = =
+# # # # # # # # # # # # # # # # # # # # # # # #
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+A list of items:
+1. Apples
+2. Bananas
+3. Cherries
+4. Dates
+5. Elderberries
+6. Figs
+7. Grapes
+8. Honeydew
+
+Tabulated data:
+Item	Quantity	Price
+Apples	10	$1.00
+Bananas	20	$0.50
+Cherries	15	$2.00
+Dates	5	$3.00
+Elderberries	8	$2.50
+Figs	12	$1.75
+Grapes	30	$0.30
+Honeydew	7	$4.00
+
+Conclusion:
+This text contains a variety of ASCII characters, numbers, and formats. It 
+serves as a sample for different types of text representation, including 
+newlines, tabs, and spaces.
