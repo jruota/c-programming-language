@@ -1,0 +1,6 @@
+Make		sure	 your	editor			does not 	replace	tabs with spaces.
+		This is a 	test 			file to 	count spaces, tabs and newlines.
+
+				
+
+
