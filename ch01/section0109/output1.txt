@@ -1,0 +1,68 @@
+[  18] ASCII Ch
+[  59] ! @ # $ 
+[  14] ~ ` : <s
+[   1] 
+[   9] Numbers:
+[  53] 0 1 2 3 
+[  60] 21 22 23
+[   1] 
+[  17] Tabs and
+[  24] Column1	
+[   6] 1	2	3
+[   6] 4	5	6
+[   6] 7	8	9
+[   9] 10	11	12
+[   1] 
+[  27] Sample T
+[  18] This is 
+[  18] This is 
+[  20] This is 
+[  19] This is 
+[  19] This is 
+[  18] This is 
+[  20] This is 
+[  20] This is 
+[  19] This is 
+[  18] This is 
+[   1] 
+[  22] A few ra
+[   6] 12345
+[   6] 67890
+[   6] 24680
+[   6] 13579
+[   6] 10203
+[   6] 40404
+[   6] 99999
+[   1] 
+[  23] More ASC
+[  48] * * * * 
+[  50] = = = = 
+[  48] # # # # 
+[  50] ~ ~ ~ ~ 
+[   1] 
+[  17] A list o
+[  10] 1. Apple
+[  11] 2. Banan
+[  12] 3. Cherr
+[   9] 4. Dates
+[  16] 5. Elder
+[   8] 6. Figs
+[  10] 7. Grape
+[  12] 8. Honey
+[   1] 
+[  16] Tabulate
+[  20] Item	Qua
+[  16] Apples	1
+[  17] Bananas	
+[  18] Cherries
+[  14] Dates	5	
+[  21] Elderber
+[  14] Figs	12	
+[  16] Grapes	3
+[  17] Honeydew
+[   1] 
+[  12] Conclusi
+[  76] This tex
+[  74] serves a
+[  28] newlines
+This tex
