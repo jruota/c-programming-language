@@ -1,0 +1,28 @@
+nothing
+ one space 
+  two spaces  
+   three spaces   
+    four spaces    
+     five spaces     
+      six spaces      
+       seven spaces       
+        eight spaces        
+nothing
+	one tab	
+		two tabs		
+			three tabs			
+				four tabs				
+					five tabs					
+						six tabs						
+							seven tabs							
+								eight tabs								
+nothing
+ 	one space, one tab 	
+  	two spaces, one tab  	
+   	three spaces, one tab   	
+ 		one space, two tabs 		
+  		two spaces, two tabs  		
+   		three spaces, two tabs   		
+	    one tab, four spaces	    
+ 	 	 	 	stststst 	 	 	 	
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
