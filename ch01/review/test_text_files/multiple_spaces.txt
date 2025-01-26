@@ -1,0 +1,2 @@
+This sentence  includes   multiple    spaces     between      words.
+So       does     this   one.
